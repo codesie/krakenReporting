@@ -1,5 +1,6 @@
 .idea
 .vscode
+trades.db
 logs
 trading_bot/log
 config.json
